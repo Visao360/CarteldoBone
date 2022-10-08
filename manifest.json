@@ -36,9 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
+ "name": "Projeto Cartel do Boné",
+ "display": "fullscreen",
  "start_url": "index.htm?installed=true",
  "theme_color": "#CC9933",
- "display": "fullscreen",
- "name": "Projeto Cartel do Boné",
  "background_color": "#CC9933"
 }
